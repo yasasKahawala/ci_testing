@@ -1,0 +1,35 @@
+{
+  "bot_id": "B01UAD3PARK",
+  "type": "message",
+  "text": "",
+  "user": "U01UDML5ER1",
+  "ts": "1636381900.003200",
+  "team": "T0GN37ZCP",
+  "bot_profile": {
+      "id": "B01UAD3PARK",
+      "deleted": false,
+      "name": "GitHub",
+      "updated": 1633079138,
+      "app_id": "A01BP7R4KNY",
+      "icons": {
+          "image_36": "https://avatars.slack-edge.com/2020-11-25/1527503386626_319578f21381f9641cd8_36.png",
+          "image_48": "https://avatars.slack-edge.com/2020-11-25/1527503386626_319578f21381f9641cd8_48.png",
+          "image_72": "https://avatars.slack-edge.com/2020-11-25/1527503386626_319578f21381f9641cd8_72.png"
+      },
+      "team_id": "T0GN37ZCP"
+  },
+  "attachments": [
+      {
+          "fallback": "[tibbercom/tibber-pulse-ir-hub-esp32] 2 new commits pushed  to _main_ by reiakvam",
+          "text": "`<https://github.com/tibbercom/tibber-pulse-ir-hub-esp32/commit/cc495739edf961f5a6d05e432980e239336eb725|cc495739>` - Fixed  #if PROPER_BRIDGE_PAIRING == 1 bug.\n`<https://github.com/tibbercom/tibber-pulse-ir-hub-esp32/commit/3f4b146461f30ceddba61509077609b8f6ffc51d|3f4b1464>` - Compiler said we might want to have another byte, who am I to protest?\n",
+          "pretext": "<https://github.com/tibbercom/tibber-pulse-ir-hub-esp32/compare/2234c1d5ffd0...3f4b146461f3|2 new commits> pushed  to `<https://github.com/tibbercom/tibber-pulse-ir-hub-esp32/tree/main|main>` by <https://github.com/reiakvam|reiakvam>",
+          "footer": "<https://github.com/tibbercom/tibber-pulse-ir-hub-esp32|tibbercom/tibber-pulse-ir-hub-esp32>",
+          "id": 1,
+          "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+          "color": "24292f",
+          "mrkdwn_in": [
+              "text"
+          ]
+      }
+  ]
+}
